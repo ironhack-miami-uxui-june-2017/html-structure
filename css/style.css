@@ -3,6 +3,10 @@ header {
   color: white;
 }
 
+aside {
+  background-color: chartreuse;
+}
+
 footer {
   background-color: black;
   color: white;
